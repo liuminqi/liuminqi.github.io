@@ -5,4 +5,4 @@ day_unknown: true
 inline: true
 ---
 
-I will be presenting at MMM13's Semitic morphology workshop with [Lily Xu](https://sites.google.com/view/lilyxxu/) and Huilei Wang.
+I'll be presenting at MMM13's Semitic morphology workshop with [Lily Xu](https://sites.google.com/view/lilyxxu/) and Huilei Wang.

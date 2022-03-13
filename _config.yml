@@ -153,7 +153,7 @@ plugins:
   - jekyll-github-metadata
   - jekyll-imagemagick
   - jekyll-paginate-v2
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
@@ -213,7 +213,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: talks.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
@@ -224,7 +224,7 @@ scholar:
   join_strings: true
 
   details_dir: bibliography
-  details_layout: bibtex.html
+  details_layout: bib.html
   details_link: Details
 
   query: "@*"

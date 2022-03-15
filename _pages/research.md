@@ -9,7 +9,7 @@ display_categories: # [work, fun]
 horizontal: false
 ---
 
-these r my projects
+These are my projects.
 
 <!-- pages/projects.md -->
 <div class="projects">

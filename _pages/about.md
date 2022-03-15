@@ -24,6 +24,9 @@ social: false  # includes social icons at the bottom of the page
 
 # GIMP: import email photo, select background and delete it, then save it without background
 # OR in GIMP create an image file with transparent background and add a text label with my email address (Create 2 for light and dark google CSS change image)
+
+# dark mode font: #e8e8e8
+# light mode font: #000000
 ---
 
 I'm a third year PhD student at the UCLA linguistics department.

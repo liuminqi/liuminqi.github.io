@@ -25,6 +25,12 @@
     padding-top: 12px;
     display : block;
   }
+  .email-img.dark {
+      display: none;
+  }
+  .email-img.light {
+      display: block;
+  }
 }
 
 html[data-theme='dark'] {
@@ -49,5 +55,11 @@ html[data-theme='dark'] {
   }
   .fa-moon {
     display : none;
+  }
+  .email-img.dark {
+      display: block;
+  }
+  .email-img.light {
+      display: none;
   }
 }

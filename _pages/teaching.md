@@ -7,7 +7,8 @@ ord: 40
 nav: true
 ---
 
-<strong>Teaching Assistant<strong/>
+#### <b>Teaching assistant (UCLA)</b>
+***
 * Summer 2021: Ling 103, Introduction to General Phonetics <br>
 Instructor: Jennifer Kuo
 

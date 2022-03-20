@@ -269,6 +269,7 @@ blockquote {
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
+  font-weight: 400;
   .container {
     color: var(--global-footer-text-color);
     padding-top: 9px;
@@ -410,7 +411,7 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  margin-top: 2rem;
+  margin-top: 1rem;
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;

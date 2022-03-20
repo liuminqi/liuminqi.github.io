@@ -15,28 +15,29 @@ https://www.amirasiaee.com/dailyreport/jekyll-scholar/
 https://github.com/inukshuk/jekyll-scholar
 -->
 
-Proceedings refereed by abstract:
-
+### <b>Papers</b>
+***
+<strong>Proceedings refereed by abstract:</strong>
 <div class="publications">
   {% bibliography -f refereed %}
 </div>
 
-Unpublished manuscripts:
-
+<br>
+<strong>Unpublished manuscripts:</strong>
 <div class="publications">
   {% bibliography -f unpublished %}
 </div>
 
-Presentations:
-
-Conference talks:
-
+<br>
+### <b>Presentations</b>
+***
+<strong>Conference talks:</strong>
 <div class="publications">
   {% bibliography -f talks %}
 </div>
 
-Poster presentations:
-
+<br>
+<strong>Poster presentations:</strong>
 <div class="publications">
   {% bibliography -f posters %}
 </div>

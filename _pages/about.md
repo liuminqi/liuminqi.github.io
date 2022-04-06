@@ -34,6 +34,8 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a third year PhD student at the UCLA linguistics department.
 
-My research focuses on morphology and its interfaces with phonology and syntax. I am particularly interested in infant acquisition of morphological alternations, how it does or does not differ from the acquisition of phonotactic dependencies, and how the learning of one kind of process may impact the learning of the other.
+My research focuses on morphology and its interfaces with phonology and syntax. I am particularly interested in infant acquisition of morphological alternations, how it does or does not differ from the acquisition of phonotactic dependencies, and how the learning of processes of one kind may impact the learning of the other.
 
-I also do fieldwork on San Cristóbal Lachirioag Zapotec, a Northern Zapotec language from the Villa Alta district of Oaxaca, Mexico.
+I also do a lot of fieldwork on San Cristóbal Lachirioag Zapotec, a Northern Zapotec language from the Villa Alta district of Oaxaca, Mexico.
+
+If you have any questions, please feel free to email me!

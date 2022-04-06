@@ -5,4 +5,4 @@ day_unknown: false
 inline: true
 ---
 
-I'm giving a talk titled "Morphosyntax and phonology condition primary prefix allomorphy in Lachirioag Zapotec" at WAIL 24.
+I'm giving a talk titled "Morphosyntax and phonology condition primary prefix allomorphy in Lachirioag Zapotec" at [WAIL 24](https://sites.google.com/view/wailconferenceucsb/home).

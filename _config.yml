@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Elizabeth
+first_name: Minqi
 middle_name:
-last_name: Solá-Llonch
-email: elsol4@g.ucla.edu
+last_name: Liu
+email: liuminqi@ucla.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. student at UCLA linguistics department.
 footer_text: >
@@ -16,9 +16,9 @@ footer_text: >
 keywords:  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🦎  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🐱  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://isolallo.github.io # the base hostname & protocol for your site
+url: https://liuminqi.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -56,7 +56,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: isolallo # your GitHub user name
+github_username: liuminqi # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -206,8 +206,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Solá-Llonch
-  first_name: [Iza, I.]
+  last_name: Liu
+  first_name: [Minqi, M.]
 
   style: apa
   locale: en

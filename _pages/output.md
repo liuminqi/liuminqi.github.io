@@ -18,7 +18,7 @@ https://github.com/inukshuk/jekyll-scholar
 
 ### <b>Papers</b>
 ***
-<strong>Proceedings refereed by abstract:</strong>
+<strong>Proceedings:</strong>
 <div class="publications">
   {% bibliography -f refereed %}
 </div>

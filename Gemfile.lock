@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    activesupport (7.0.2.2)
+    activesupport (7.0.2.4)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
@@ -16,7 +16,7 @@ GEM
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 1.6)
     colorator (1.1.0)
-    concurrent-ruby (1.1.9)
+    concurrent-ruby (1.1.10)
     csl (1.6.0)
       namae (~> 1.0)
       rexml
@@ -52,10 +52,10 @@ GEM
     ffi (1.15.5)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
-    html-pipeline (2.14.0)
+    html-pipeline (2.14.1)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    htmlbeautifier (1.4.1)
+    htmlbeautifier (1.4.2)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
     i18n (1.10.0)
@@ -82,7 +82,7 @@ GEM
     jekyll-email-protect (1.1.0)
     jekyll-feed (0.16.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-github-metadata (2.13.0)
+    jekyll-github-metadata (2.14.0)
       jekyll (>= 3.4, < 5.0)
       octokit (~> 4.0, != 4.4.0)
     jekyll-imagemagick (1.4.0)
@@ -108,7 +108,7 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    kramdown (2.3.1)
+    kramdown (2.4.0)
       rexml
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
@@ -121,14 +121,14 @@ GEM
     minitest (5.15.0)
     multipart-post (2.1.1)
     namae (1.1.1)
-    nokogiri (1.13.3-x86_64-linux)
+    nokogiri (1.13.5-x86_64-darwin)
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
-    public_suffix (4.0.6)
+    public_suffix (4.0.7)
     racc (1.6.0)
     rb-fsevent (0.11.1)
     rb-inotify (0.10.1)
@@ -151,7 +151,7 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  x86_64-linux
+  x86_64-darwin-19
 
 DEPENDENCIES
   htmlbeautifier
@@ -173,4 +173,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.4
+   2.3.13

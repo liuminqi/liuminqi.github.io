@@ -19,8 +19,9 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I'm a fifth year PhD student at the UCLA linguistics department.
+I'm a fifth year Ph.D. student at the <a href="/https://linguistics.ucla.edu" target="_new">UCLA linguistics department</a>. My research centers on children’s acquisition of syntax in their first languages. My current experimental work concerns how children acquire the linguistic constructions that involve syntactic movements of a noun phrase over an existing noun phrase, which usually cause difficulty (Intervention Effects) in child languages.
 
-My research does stuff!
+I work extensively on the syntax and acquisition of Mandarin Chinese. I have also performed descriptive research on San Cristóbal Lachirioag Zapotec, an underdocumented language spoken in Oaxaca in south-western Mexico, and Tonggu Gan, a non-Mandarin Chinese dialect spoken in Jiangxi in south China.
 
-i love Iza
+Before entering the PhD program at UCLA, I earned my B.A. in Chinese Linguistics at Peking University, China. 
+

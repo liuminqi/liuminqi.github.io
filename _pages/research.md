@@ -9,20 +9,20 @@ display_categories: # [work, fun]
 horizontal: false
 ---
 
-#### <b>Fieldwork (Lachirioag Zapotec)</b>
+#### <b>L1 Acquisition</b>
 ***
 
-<strong>Verbal prefixes</strong>
+<strong>Mandarin passives</strong>
 
-My [MA thesis](https://www.proquest.com/pagepdf/2611991924?accountid=14512) provided a general description of the verbal morphology found in Lachirioag Zapotec, with a particular focus on the verbal TAM prefixes and the argument enclitics. Currently, I am continuing my investigation into the verbal prefixes with focus on two main questions:
+<!-- My [MA thesis](https://www.proquest.com/pagepdf/2611991924?accountid=14512) provided a general description of the verbal morphology found in Lachirioag Zapotec, with a particular focus on the verbal TAM prefixes and the argument enclitics. Currently, I am continuing my investigation into the verbal prefixes with focus on two main questions:
 <ol>
   <li>What conditions the allomorphy displayed by the irrealis and perfective prefixes?</li>
   <li>What is the semantic information conveyed by the TAM prefixes?</li>
-</ol>
+</ol> -->
 
-<strong>Acoustics of the fortis/lenis contrast (with Lily Xu)</strong>
+<strong>Mandarin (psudo-)sluicing</strong>
 
-Zapotec languages are described as having a fortis/lenis contrast for both obstruent and sonorant consonants. Despite the name, the two classes of consonants have been found to be primarily distinguished by duration in other Zapotec languages. Our <a href="/assets/pdf/ssila22_SCLZfortislenis.pdf" target="_new">preliminary results</a> support the previous findings, and additionally find voicing to be a significant acoustic correlate for obstruents. We are currently gathering more data, and hope that our results will provide us a better understanding of how the fortis/lenis contrast in Zapotec fits in the larger typology of laryngeal contrasts.
+<!-- Zapotec languages are described as having a fortis/lenis contrast for both obstruent and sonorant consonants. Despite the name, the two classes of consonants have been found to be primarily distinguished by duration in other Zapotec languages. Our <a href="/assets/pdf/ssila22_SCLZfortislenis.pdf" target="_new">preliminary results</a> support the previous findings, and additionally find voicing to be a significant acoustic correlate for obstruents. We are currently gathering more data, and hope that our results will provide us a better understanding of how the fortis/lenis contrast in Zapotec fits in the larger typology of laryngeal contrasts.
 
 <br>
 <hr width="50%" size="8" align="left">
@@ -32,12 +32,12 @@ Other linguists who work or have done work on Lachirioag Zapotec include: <br>
 * [Harold Torrence](https://linguistics.ucla.edu/person/harold-torrence/) (UCLA)<br>
 * [Pamela Munro](https://linguistics.ucla.edu/person/pamela-munro/) (UCLA)
 
-There have also been community efforts to document and create language materials. A page with a collection of Zapotec resources is upcoming.
+There have also been community efforts to document and create language materials. A page with a collection of Zapotec resources is upcoming. -->
 
 <br>
-#### <b>Experimental</b>
+#### <b>Syntax</b>
 ***
-<strong>Acquisition of non-local phonotactic dependencies</strong>
+<!-- <strong>Acquisition of non-local phonotactic dependencies</strong>
 
 Sundara et al.'s (2022) meta-analysis on phonotactic acquisition found that infants display sensitivity to vowel harmony before any other local or non-local phonotactic dependency. This is despite the fact that non-local dependencies are reportedly more difficult to learn than local dependencies. We are currently planning a series of experiments to investigate two main questions:
 <ol>
@@ -55,7 +55,15 @@ We are using Bayesian meta-analysis to investigate morphological priming effects
 Collaborator(s):
 * [Lily Xu](https://sites.google.com/view/lilyxxu/)<br>
 * Huilei Wang<br>
-* [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/)
+* [Megha Sundara](https://linguistics.ucla.edu/person/megha-sundara/) -->
+
+<br>
+#### <b>Fieldwork</b>
+***
+<strong>Lachirioag Zapotec</strong>
+
+
+<strong>Tonggu Gan Chinese</strong>
 
 <!-- pages/projects.md -->
 <div class="projects">

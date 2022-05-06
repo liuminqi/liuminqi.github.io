@@ -23,4 +23,4 @@ I'm a fifth year PhD student at the UCLA linguistics department.
 
 My research does stuff!
 
-i love passives
+i love Iza

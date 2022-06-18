@@ -5,6 +5,6 @@ day_unknown: true
 inline: true
 ---
 
-I received a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2146647&HistoricalAwards=false" target="_new">Doctoral Dissertation Research Improvement Grant</a> by the National Science Foundation (NSF) for my dissertation project *Intervention Effects in the Acquisition of Passives* (with faculty PI Nina Hyams).
+I received a <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2146647&HistoricalAwards=false" target="_new">Doctoral Dissertation Research Improvement Grant</a> ($15,001) by the National Science Foundation (NSF) for my dissertation project *Intervention Effects in the Acquisition of Passives* (with faculty PI Nina Hyams).
 
 

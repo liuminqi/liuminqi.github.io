@@ -9,30 +9,29 @@ display_categories: # [work, fun]
 horizontal: false
 ---
 
-#### <b>L1 Acquisition</b>
+#### <b>First language (L1) Acquisition</b>
 ***
+<strong>(Featural) Relativized Minimality and Intervention Effects in Child Languages</strong>
 
-<strong>Mandarin passives</strong>
 
-<!-- My [MA thesis](https://www.proquest.com/pagepdf/2611991924?accountid=14512) provided a general description of the verbal morphology found in Lachirioag Zapotec, with a particular focus on the verbal TAM prefixes and the argument enclitics. Currently, I am continuing my investigation into the verbal prefixes with focus on two main questions:
-<ol>
+<strong>Acquisition of passives in Mandarin</strong>
+Cross-linguistically, children’s acquisition of passive sentences is delayed, with long passives – those in which the agent is expressed (e.g., 'The mouse is chased by the cat') – even more difficult for children to understand and/or produce than short passives (e.g., 'The mouse is chased'). We aim to determine what causes these difficulties by examining the effects of grammar (the Intervention Hypothesis, Friedmann et al., 2009) and language input in children’s passive acquisition in Mandarin, a language in which this construction is understudied and the sparse existing literature shows conflicting results on this topic. Our project contains a corpus study (<a href="/assets/pdf/Liu_BUCLD46_poster.pdf" target="_new">preliminary results</a>) and three behavioral experiments. The corpus study is the first large-scale investigation on child Mandarin passives, investigating CHILDES (MacWhinney 2000) corpora from 1,182 children and their caretakers. The three experiments will investigate 3- to 6-year-olds’ comprehension of Mandarin long and short passives and test the predictions of the Intervention Hypothesis with respect to the role of morpho-syntactic and semantic features, which remains to be done in any language. 
+
+
+Collaborator(s):
+* [Nina Hyams](https://linguistics.ucla.edu/person/nina-hyams/) <br>
+* [Victoria Mateu](https://www.victoriamateu.com)<br>
+
+
+<strong>Acquisition of (psudo-)sluicing in Mandarin</strong>
+Sluicing refers to an elliptical structure in which only a wh-phrase is overt in a CP, as in "Someone left. I don’t know who". In Mandarin, sluice-like strings (‘S-strings’) with argument wh-remnants require the presence of "shi", a form that is ambiguous between a copula and a focus marker. My [MA thesis](https://www.proquest.com/docview/2330601872/F87CEFA1CCBA4A89PQ/2?accountid=14512)  proposes a hybrid analysis of Mandarin S-strings as having two possible derivations, a sluice and a pseudo-sluice, unless one of the structures is independently forced. When "shi" is a copula, the S-string has a pseudo-sluice analysis, [pro be wh-phrase], involving neither movement nor ellipsis. When "shi" is a focus marker, the S-string is derived by focus movement followed by TP-ellipsis yielding a sluice analysis. Results from a comprehension experiment with 59 Mandarin-speaking children show that 3-4-year-olds have only a pseudo-sluice/copula analysis of S-strings. They acquire the sluice/focus movement derivation at approximately age 5 at which point they show the “subject advantage” typically associated with A’-movement structures in young children.
+
+<!-- <ol>
   <li>What conditions the allomorphy displayed by the irrealis and perfective prefixes?</li>
   <li>What is the semantic information conveyed by the TAM prefixes?</li>
 </ol> -->
 
-<strong>Mandarin (psudo-)sluicing</strong>
 
-<!-- Zapotec languages are described as having a fortis/lenis contrast for both obstruent and sonorant consonants. Despite the name, the two classes of consonants have been found to be primarily distinguished by duration in other Zapotec languages. Our <a href="/assets/pdf/ssila22_SCLZfortislenis.pdf" target="_new">preliminary results</a> support the previous findings, and additionally find voicing to be a significant acoustic correlate for obstruents. We are currently gathering more data, and hope that our results will provide us a better understanding of how the fortis/lenis contrast in Zapotec fits in the larger typology of laryngeal contrasts.
-
-<br>
-<hr width="50%" size="8" align="left">
-Other linguists who work or have done work on Lachirioag Zapotec include: <br>
-* Madeleine Booth (UCLA)<br>
-* Michael Galant (UC Dominguez Hills)<br>
-* [Harold Torrence](https://linguistics.ucla.edu/person/harold-torrence/) (UCLA)<br>
-* [Pamela Munro](https://linguistics.ucla.edu/person/pamela-munro/) (UCLA)
-
-There have also been community efforts to document and create language materials. A page with a collection of Zapotec resources is upcoming. -->
 
 <br>
 #### <b>Syntax</b>

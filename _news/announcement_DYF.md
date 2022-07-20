@@ -5,5 +5,5 @@ day_unknown: true
 inline: true
 ---
 
-I received a Dissertation Year Fellowship ($20,000) by UCLA.
+I received a <a href="https://grad.ucla.edu/funding/#/view-record/766/0" target="_new">Dissertation Year Fellowship</a> ($20,000) by UCLA.
 

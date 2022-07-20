@@ -16,35 +16,37 @@ https://www.amirasiaee.com/dailyreport/jekyll-scholar/
 https://github.com/inukshuk/jekyll-scholar
 -->
 
-### <b>Papers</b>
+### <b>Journals</b>
 ***
-<strong>Journals</strong>
+<strong></strong>
 <div class="publications">
   {% bibliography -f journal %}
 </div>
-
 <br>
-<strong>Proceedings:</strong>
+
+### <b>Proceedings</b>
+***
 <div class="publications">
   {% bibliography -f refereed %}
 </div>
-
 <br>
-<strong>Unpublished manuscripts:</strong>
+
+### <b>Unpublished manuscripts</b>
+***
 <div class="publications">
   {% bibliography -f unpublished %}
 </div>
-
 <br>
-### <b>Presentations</b>
+
+### <b>Conference talks</b>
 ***
-<strong>Conference talks:</strong>
 <div class="publications">
   {% bibliography -f talks %}
 </div>
-
 <br>
-<strong>Poster presentations:</strong>
+
+### <b>Poster presentations</b>
+***
 <div class="publications">
   {% bibliography -f posters %}
 </div>

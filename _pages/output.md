@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /output/
-title: Output
+permalink: /publication/
+title: Publication
 ord: 30
 description:
 
@@ -18,6 +18,12 @@ https://github.com/inukshuk/jekyll-scholar
 
 ### <b>Papers</b>
 ***
+<strong>Journals</strong>
+<div class="publications">
+  {% bibliography -f journal %}
+</div>
+
+<br>
 <strong>Proceedings:</strong>
 <div class="publications">
   {% bibliography -f refereed %}

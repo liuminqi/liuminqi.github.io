@@ -23,5 +23,5 @@ I'm a fifth year Ph.D. student at the <a href="/https://linguistics.ucla.edu" ta
 
 I work extensively on the syntax and acquisition of Mandarin Chinese. I have also performed descriptive research on San Cristóbal Lachirioag Zapotec, an underdocumented language spoken in Oaxaca in south-western Mexico, and Tonggu Gan, a non-Mandarin Chinese dialect spoken in Jiangxi in south China.
 
-Before entering the PhD program at UCLA, I earned my B.A. in Chinese Linguistics at Peking University, China. 
+Before entering the PhD program at UCLA, I earned my B.A. in Chinese Linguistics at <a href="/https://english.pku.edu.cn" target="_new">Peking University</a>, China. 
 

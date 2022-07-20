@@ -79,13 +79,15 @@
           {%- if entry.type == "proceedings" -%}
             {{ " " }} In {{ " " }} <em>{{ entry.booktitle }}</em>.
           {%- endif -%}
-
+          {%- if entry.type == "journal" -%}
+            {{ " " }} {{ " " }} <em>{{ entry.journal }}</em>,{{ " " }} {{ entry.publisher }}.
+          {%- endif -%}
 
 
           <!-- Links/Buttons -->
           <div class="links">
           {%- if entry.abstract %}
-            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
@@ -127,11 +129,11 @@
             <a href="{{ entry.poster | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Poster</a>
             {%- endif %}
           {%- endif %}
-          {%- if entry.slides %}
-            {% if entry.slides contains '://' -%}
-            <a href="{{ entry.slides }}" class="btn btn-sm z-depth-0" role="button">Slides</a>
+          {%- if entry.handout %}
+            {% if entry.handout contains '://' -%}
+            <a href="{{ entry.handout }}" class="btn btn-sm z-depth-0" role="button">Handout</a>
             {%- else -%}
-            <a href="{{ entry.slides | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_new">Slides</a>
+            <a href="{{ entry.handout | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_new">Handout</a>
             {%- endif %}
           {%- endif %}
           {%- if entry.website %}

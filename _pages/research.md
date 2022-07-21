@@ -62,21 +62,18 @@ Publications:
 ***
 <strong>San Cristóbal Lachirioag Zapotec (Jan--July 2020)</strong>\\
 I conducted fieldwork on a Zapotec language spoken in San Cristóbal Lachirioag, Oaxaca, Mexico in the  Field Methods class at UCLA Linguistics. Weekly elicitation sessions have
-* Speaker: Julio Dominguez
-* Collaborators: Prof. Harold Torrence (adviser), Prof. Pam Munro, Maddy Booth, Katsuda Hironori, Christine Prechtel, Iza Sola-Llonch, Andy Xu, and Z.L. Zhou.
+<!-- * Speaker: Julio Dominguez -->
+* Collaborators: Prof. [Harold Torrence](https://linguistics.ucla.edu/person/harold-torrence/) (adviser), Prof. [Pam Munro](https://linguistics.ucla.edu/person/pamela-munro/), Maddy Booth, [Hironori Katsuda](https://hironori1123.github.io/Homepage/), Christine Prechtel, [Iza Sola-Llonch](https://soy.elsolallon.ch), Andy Xu, and [Z.L. Zhou](https://zlzhou.me).
 
 
 Project outputs:
 * __Liu, Minqi__. 2021. _Adverbial Clitics in San Cristóbal Lachirioag Zapotec_. Poster presented at the 2021 Annual Meeting of Society for the Study of the Indigenous Languages of the Americas (SSILA 2021), Online. [<a href="/assets/pdf/Liu_SSILA2021_AdvClitics.pdf" target="_new">Presentation slides</a>]
 * __Liu, Minqi__. 2020. _Dependent and independent pronouns in San Cristóbal Lachirioag Zapotec_. UCLA Manuscript [<a href="/assets/pdf/Liu_SCLZ_pronoun.pdf" target="_new">PDF</a>]
-* Booth, Madeleine,  Solá-Llonch, Elizabeth, and Torrence, Harold. 2021. _Free relative clauses in San Cristóbal Lachirioag Zapotec_. Talk given at the 2021 Society for the Study of the Indigenous Languages of the Americas conference.
-* Solá-Llonch, Elizabeth. 2021. _Counterfactuals in San Crisóbal Lachirioag Zapotec_. Poster presented at the 2021 Society for the Study of the Indigenous Languages of the Americas conference.
-* Solá-Llonch, Elizabeth. 2021. _[Aspects and arguments of the Lachirioag Zapotec verb](https://escholarship.org/uc/item/1739q042)_. Unpublished masters thesis, University of California, Los Angeles.
-* [Online database](https://langbase.humanities.ucla.edu/language_homepage.php?language=zapotec) 
+
 
 <strong>Tonggu Gan Chinese (Summer 2016)</strong>\\
 I participated in a dialect documentation project by Peking University on a Gan dialect spoken in Tonggu, Jiangxi, China. I worked closely with a local speaker for 56 hours on elicitation and collaborated with my cohorts on a 150-page comprehensive description of the Gan variety in Tonggu, including its phonetics and phonological systems, as well as a general introduction to its lexicon and characteristic syntax structures. We also recorded, annotated, and digitized five long narrative stories by local  speakers. 
-* Speaker: Xinxing Shuai
+<!-- * Speaker: Xinxing Shuai -->
 * Collaborators: Prof. Mengbing Xiang (adviser), Yun Feng, Zhijia Ni, and Zhihao Wang.
 
 <br>

@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publication/
-title: Publication
+permalink: /publications/
+title: Publications
 ord: 30
 description:
 

@@ -10,8 +10,10 @@ profile:
   image: prof_pic.jpg
   address: >
     UCLA Department of Linguistics<br>
-    335 Portola Plaza<br>
-    Los Angeles, CA 90095
+    3125 Campbell Hall<br>
+    Los Angeles, CA 90095-1543<br>
+    United States of America
+
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

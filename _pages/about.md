@@ -3,7 +3,9 @@ layout: about
 ord: 10
 permalink: /
 subtitle: >
-
+    <b>
+    &#21016;&#25935;&#26071; &bull; [min.t&#865&#597&#688i]   [ljou&#815]  &bull;   she/her
+    <b/>
 
 profile:
   align: right

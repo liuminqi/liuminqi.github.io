@@ -10,7 +10,8 @@ horizontal: false
 ---
 #### <b>Research Interests</b>
 * First language acquisition of syntax
-* (Featural) Relativized Minimality and Intervention Effects in child languages
+* Intervention Effects in child languages
+* Locality and (featural) Relativized Minimality 
 * Argument structure  (particularly passives and middle voice)
 * A-movement vs. A-bar movement
 * VP domain and resultatives in Mandarin

@@ -38,7 +38,7 @@ _Sluicing_ refers to an elliptical structure in which only a _wh_-phrase is over
 Results from a comprehension experiment with 59 Mandarin-speaking children showed that 3-4-year-olds have only a pseudo-sluice/copula analysis of S-strings. They acquire the sluice/focus movement derivation at approximately age 5 at which point they show the “subject advantage” typically associated with A’-movement structures in young children due to the Intervention Effects.
 
 Project outputs:
-* __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). Forthcoming. The Syntax and Acquisition of Mandarin Sluice-like Constructions. _Tsinghua Experimental and Theoretical Linguistics_, Commercial Press, Beijing.
+* __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). Forthcoming. The Syntax and Acquisition of Mandarin Sluice-like Constructions. _Tsinghua  Linguistics_, Commercial Press, Beijing.
 * __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). 2020. <a href="/assets/pdf/Liu_BUCLD44_sluicing.pdf" target="_new">Late Intervention Effects in the Acquisition of Mandarin Sluice-like Constructions</a>. In _Proceedings of the 44th Annual Boston University Conference on Language Development (BUCLD 44)_. 
 
 
@@ -56,7 +56,7 @@ Project outputs:
 
 
 <strong>Tonggu Gan Chinese (Summer 2016)</strong>\\
-I participated in a dialect documentation project by Peking University on a Gan dialect spoken in Tonggu, Jiangxi, China. I worked closely with a local speaker for 56 hours on elicitation and collaborated with my cohorts on a 150-page comprehensive description of the Gan variety in Tonggu.
+I participated in a dialect documentation project by Peking University on a Gan dialect spoken in Tonggu, Jiangxi, China. I worked closely with a local speaker for 56 hours on elicitation and collaborated with my cohort on a 150-page comprehensive description of the Gan variety in Tonggu.
 <!-- , including its phonetics and phonological systems, as well as a general introduction to its lexicon and characteristic syntax structures -->
 We also recorded, annotated, and digitized five long narrative stories by local  speakers. 
 <!-- * Speaker: Xinxing Shuai -->

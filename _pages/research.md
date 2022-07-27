@@ -12,8 +12,8 @@ horizontal: false
 * First language acquisition of syntax
 * Intervention Effects in child languages
 * Locality and (featural) Relativized Minimality 
-* Argument structure  (particularly passives and middle voice)
-* A-movement vs. A-bar movement
+* Argument structure 
+* Long-distance dependency
 * VP domain and resultatives in Mandarin
 * Chinese languages
 

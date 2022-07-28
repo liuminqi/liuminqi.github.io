@@ -32,5 +32,5 @@ My recent research concerns how children acquire the syntactic constructions tha
 
 Besides Mandarin, I have also worked on San Cristóbal Lachirioag Zapotec, an under-documented language spoken in Oaxaca in south-western Mexico, and Tonggu Gan, a non-Mandarin Chinese dialect spoken in Jiangxi in south China.
 
-Before entering the PhD program at UCLA, I earned my B.A. in Chinese Language and Literature at <a href="https://english.pku.edu.cn" target="_new">Peking University</a>, China. 
+Before entering the PhD program at UCLA, I earned my B.A. in [Chinese Language and Literature](https://chinese.pku.edu.cn/index.htm) at <a href="https://english.pku.edu.cn" target="_new">Peking University</a>, China. 
 

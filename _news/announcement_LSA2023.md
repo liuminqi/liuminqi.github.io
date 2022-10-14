@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2022-010-20 10:59:00-0400
+date: 2022-10-20 10:59:00-0400
 day_unknown: true
 inline: true
 ---

@@ -42,7 +42,7 @@ Results from a comprehension experiment with 59 Mandarin-speaking children showe
 Project outputs:
 * __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). 2022. The Syntax and Acquisition of Mandarin Sluice-like Constructions. _Tsinghua  Linguistics_, Commercial Press, Beijing.
 * __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). 2020. <a href="/assets/pdf/Liu_BUCLD44_sluicing.pdf" target="_new">Late Intervention Effects in the Acquisition of Mandarin Sluice-like Constructions</a>. In _Proceedings of the 44th Annual Boston University Conference on Language Development (BUCLD 44)_. 
-*__Liu, Minqi__. 2019. _[The Syntax and Acquisition of Mandarin Sluice-like Constructions](https://www.proquest.com/docview/2330601872/F87CEFA1CCBA4A89PQ)_。 M.A. Thesis at the University of California, Los Angeles.
+* __Liu, Minqi__. 2019. _[The Syntax and Acquisition of Mandarin Sluice-like Constructions](https://www.proquest.com/docview/2330601872/F87CEFA1CCBA4A89PQ)_. M.A. Thesis at the University of California, Los Angeles.
 
 
 

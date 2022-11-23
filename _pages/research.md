@@ -40,7 +40,8 @@ _Sluicing_ refers to an elliptical structure in which only a _wh_-phrase is over
 Results from a comprehension experiment with 59 Mandarin-speaking children showed that 3-4-year-olds have only a pseudo-sluice/copula analysis of S-strings. They acquire the sluice/focus movement derivation at approximately age 5 at which point they show the “subject advantage” typically associated with A’-movement structures in young children due to the Intervention Effects.
 
 Project outputs:
-* __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). 2022. The Syntax and Acquisition of Mandarin Sluice-like Constructions. _Tsinghua  Linguistics_, Commercial Press, Beijing.
+* __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). 2022. The syntax and acquisition of Mandarin sluice-like constructions. _Tsinghua  Linguistics_, 1(1), 122–171.
+<!-- , Commercial Press, Beijing -->
 * __Liu, Minqi__, [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/), and [Mateu, Victoria](https://www.victoriamateu.com). 2020. <a href="/assets/pdf/Liu_BUCLD44_sluicing.pdf" target="_new">Late Intervention Effects in the Acquisition of Mandarin Sluice-like Constructions</a>. In _Proceedings of the 44th Annual Boston University Conference on Language Development (BUCLD 44)_. 
 * __Liu, Minqi__. 2019. _[The Syntax and Acquisition of Mandarin Sluice-like Constructions](https://www.proquest.com/docview/2330601872/F87CEFA1CCBA4A89PQ)_. M.A. Thesis at the University of California, Los Angeles.
 

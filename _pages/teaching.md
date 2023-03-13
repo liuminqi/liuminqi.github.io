@@ -6,7 +6,7 @@ ord: 40
 # description: Materials for courses you taught. Replace this text with your description.
 nav: true
 ---
-#### <b>As Instructor (UCLA)</b>
+#### <b>As the Sole Instructor (UCLA)</b>
 ***
 __Ling 130 -- Language Development__ (Summer 2020 __Syllabus__: <a href="/assets/pdf/Ling130_syllabus.pdf" target="_new">PDF</a>)
 
@@ -15,7 +15,7 @@ __Ling 130 -- Language Development__ (Summer 2020 __Syllabus__: <a href="/assets
 <ins>Responsibilities</ins>: Course design, lectures (6h/week), discussion section (1h/week), office hours (2h/week), advising students on their final research projects, hosting a mini-conference for students to present their research projects, and grading homework and final papers.
 <br>
 <br>
-#### <b>As Teaching Assistant/Associate (UCLA)</b>
+#### <b>As a Teaching Assistant/Associate (UCLA)</b>
 ***
 
 * __Ling 1 -- Introduction to the Study of Language__ <br>

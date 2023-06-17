@@ -15,6 +15,12 @@ scholar jekyll plugin
 https://www.amirasiaee.com/dailyreport/jekyll-scholar/
 https://github.com/inukshuk/jekyll-scholar
 -->
+### <b>Dissertation</b>
+***
+<div class="publications">
+  {% bibliography -f dissertation %}
+</div>
+<br>
 
 ### <b>Journals</b>
 ***

@@ -27,7 +27,7 @@ This project contains a corpus study and two behavioral experiments. The corpus 
 Project outputs:
 * __Liu, Minqi__. 2023. <a href="/assets/pdf/Liu2023PhD_MandarinPassives.pdf" target="_new">*Featural Relativized Minimality in Child Grammar: An Investigation of Mandarin Long and Short bei-passives*</a>. Ph.D. Dissertation, UCLA. 
 * __Liu, Minqi__, [Mateu, Victoria](https://www.victoriamateu.com), and [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/). 2023. <a href="/assets/pdf/Liu_Mateu_Hyams_BUCLD47.pdf" target="_new">Intervention effects in Mandarin-speaking children’s comprehension of passives</a>. In _Proceedings of the 47th Annual Boston University Conference on Language Development (BUCLD 47)_. 
-* __Liu, Minqi__, [Mateu, Victoria](https://www.victoriamateu.com), and [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/). 2023. Featural Relativized Minimality in Child Mandarin Passives. Talk at the Annual Meeting of the Linguistics Society of America (LSA 2023), Denver, CO.
+* __Liu, Minqi__, [Mateu, Victoria](https://www.victoriamateu.com), and [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/). 2023. Featural Relativized Minimality in Child Mandarin Passives. Talk at the Annual Meeting of the Linguistics Society of America (LSA 2023), Denver, CO. [<a href="/assets/pdf/Liu_LSA2023_handout" target="_new">Slides</a>]
 * __Liu, Minqi__, [Mateu, Victoria](https://www.victoriamateu.com), and [Hyams, Nina](https://linguistics.ucla.edu/person/nina-hyams/). 2022. Intervention effects in Mandarin-speaking children’s comprehension of passives. Talk at the 47th Meeting of the Boston University Conference on Language Development (BUCLD 47), Boston University. [<a href="/assets/pdf/Liu_BUCLD47_slides.pdf" target="_new">Slides</a>]
 * __Liu, Minqi__. 2022. <a href="/assets/pdf/Liu_BUCLD46_LongPass.pdf" target="_new">Prevalence of Long Passives in Child Mandarin: Input and Intervention Effects</a>. In _Proceedings of the 46th Annual Boston University Conference on Language Development (BUCLD 46)_. 
 
@@ -75,6 +75,9 @@ We also recorded, annotated, and digitized five long narrative stories by local 
 <br>
 #### <b>Other projects</b>
 ***
+<strong>Sonority Sequencing in Perception and Production by Mandarin-speaking children exposed to English (with <a href="http://clairemoorecantwell.org" target="_new">Claire Moore-Cantwell</a> and <a href="https://amtessier.github.io" target="_new">Anne-Michelle Tessier</a></strong>\\
+This ongoing project investigates the perception and production of L2 English consonant clusters by L1 Mandarin-speaking 5-year-olds offering insight into their grammatical sensitivity to sonority sequencing.
+
 <strong>Deriving Mandarin _bei_-passives</strong>\\
 This ongoing project looks into the different syntactic derivations of long and short _bei_-passives in Mandarin. 
 

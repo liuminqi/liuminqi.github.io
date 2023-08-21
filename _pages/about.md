@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I recently earned my Ph.D. degree in  <a href="https://linguistics.ucla.edu" target="_new">Linguistics</a> at the University of California, Los Angeles (UCLA) in June 2023 and started my job as the Lab Manager at the <a href="https://languagelab.humanities.ucla.edu/en/" target="_new">UCLA Language Acquisition Lab</a>. I am primarily interested in __first language (L1) acquisition__ and __theoretical syntax__. I employ experimental methods to address core issues in children's syntactic development and believe that L1 data can inform linguistic theory in meaningful ways. I am  a member of the <a href="https://languagelab.humanities.ucla.edu" target="_new">UCLA Language Acquisition Lab</a>.
+I recently earned my Ph.D. degree in  <a href="https://linguistics.ucla.edu" target="_new">Linguistics</a> at the University of California, Los Angeles (UCLA) in June 2023 and started working as the lab manager in the <a href="https://languagelab.humanities.ucla.edu/en/" target="_new">UCLA Language Acquisition Lab</a>. I am primarily interested in __first language (L1) acquisition__ and __theoretical syntax__. I employ experimental methods to address core issues in children's syntactic development and believe that L1 data can inform linguistic theory in meaningful ways. 
 
 
 My recent research concerns how children acquire the syntactic constructions that involve extraction of a nominal phrase over another c-commanding nominal phrase, which usually triggers locality difficulties in child languages ('Intervention Effects'). My dissertation project centers on the syntax and acquisition of passive constructions in Mandarin Chinese. 

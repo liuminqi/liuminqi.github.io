@@ -10,12 +10,11 @@ horizontal: false
 ---
 #### <b>Research Interests</b>
 * First language acquisition of syntax
-* Intervention Effects in child languages
-* Locality and (featural) Relativized Minimality 
+* Locality and (featural) Relativized Minimality in child languages
 * Argument structure 
 * Long-distance dependency
-* VP domain and resultatives in Mandarin
 * Chinese languages
+* Sonority sequencing 
 
 #### <b>The Acquisition of Passives in L1 Mandarin</b>
 ***
@@ -75,8 +74,8 @@ We also recorded, annotated, and digitized five long narrative stories by local 
 <br>
 #### <b>Other projects</b>
 ***
-<strong>Sonority Sequencing in Perception and Production by Mandarin-speaking children exposed to English (with <a href="http://clairemoorecantwell.org" target="_new">Claire Moore-Cantwell</a> and <a href="https://amtessier.github.io" target="_new">Anne-Michelle Tessier</a></strong>\\
-This ongoing project investigates the perception and production of L2 English consonant clusters by L1 Mandarin-speaking 5-year-olds offering insight into their grammatical sensitivity to sonority sequencing.
+<strong>Sonority Sequencing in Perception and Production by Mandarin-speaking children exposed to English (with <a href="http://clairemoorecantwell.org" target="_new">Claire Moore-Cantwell</a> and <a href="https://amtessier.github.io" target="_new">Anne-Michelle Tessier</a>)</strong>\\
+This ongoing project investigates the perception and production of L2 English consonant clusters by L1 Mandarin-speaking 5-year-olds, offering insight into their grammatical sensitivity to sonority sequencing.
 
 <strong>Deriving Mandarin _bei_-passives</strong>\\
 This ongoing project looks into the different syntactic derivations of long and short _bei_-passives in Mandarin. 

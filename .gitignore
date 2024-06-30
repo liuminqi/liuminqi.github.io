@@ -1,4 +1,3 @@
-
 .bundle
 .sass-cache
 .jekyll-cache
@@ -8,4 +7,3 @@
 .tweet-cache
 vendor
 scratch
-Gemfile.lock

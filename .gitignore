@@ -1,4 +1,4 @@
-_site
+
 .bundle
 .sass-cache
 .jekyll-cache
@@ -8,3 +8,4 @@ _site
 .tweet-cache
 vendor
 scratch
+gemfile.lock

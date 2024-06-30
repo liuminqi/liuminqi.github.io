@@ -8,4 +8,4 @@
 .tweet-cache
 vendor
 scratch
-gemfile.lock
+Gemfile.lock

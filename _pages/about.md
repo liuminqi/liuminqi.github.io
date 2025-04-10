@@ -24,7 +24,7 @@ social: false  # includes social icons at the bottom of the page
 
 ---
 
-I am a lecturer (tenure-track) in the [Department of Chinese Languages and Literature](https://chinese.fudan.edu.cn) at [Fudan University](https://www.fudan.edu.cn) in Shanghai, China. I earned my Ph.D. degree in  <a href="https://linguistics.ucla.edu" target="_new">Linguistics</a> at the University of California, Los Angeles (UCLA) in June 2023.
+I am a lecturer in the [Department of Chinese Languages and Literature](https://chinese.fudan.edu.cn) at [Fudan University](https://www.fudan.edu.cn) in Shanghai, China. I earned my Ph.D. degree in  <a href="https://linguistics.ucla.edu" target="_new">Linguistics</a> at the University of California, Los Angeles (UCLA) in June 2023.
 <!-- and started working in the <a href="https://languagelab.humanities.ucla.edu/en/" target="_new">UCLA Language Acquisition Lab</a>, where I conduct various infant linguistic experiments and manage the lab.  -->
 
 I am primarily interested in __first language (L1) acquisition__ and __theoretical syntax__. I employ experimental methods to address core issues in children's syntactic development and believe that L1 data can inform linguistic theory in meaningful ways. 
